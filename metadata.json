@@ -1,0 +1,8 @@
+{
+  "name": "Annybillionz Spiritual Therapy",
+  "description": "Official website of Annybillionz Spiritual Therapy by Anny Billions. Shop authentic consecrated spiritual soaps, attraction perfumes, beads, ritual kits, and book professional spiritual consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
